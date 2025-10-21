@@ -1,4 +1,4 @@
-EX-21-POINTERS
+# EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
@@ -10,8 +10,11 @@ Write a C program to convert a 23.65 into 25 using pointer
 
 ## PROGRAM:
 
+<img width="561" height="228" alt="image" src="https://github.com/user-attachments/assets/c15f88ad-30c3-4f37-b593-7dc559a13d70" />
+
 ## OUTPUT:
  	
+<img width="365" height="190" alt="image" src="https://github.com/user-attachments/assets/072be0a2-96d6-4b1f-be04-757897c7ab48" />
 
 
 
@@ -45,8 +48,13 @@ Write a C program to calculate the Product of first 12 natural numbers using Rec
 6.	Print the result, indicating it is the product of the first 12 natural numbers.
 
 ## PROGRAM:
+
+<img width="786" height="423" alt="image" src="https://github.com/user-attachments/assets/8fd706ad-7573-4005-987a-08bb4265adf7" />
+
 ## OUTPUT:
-         		
+
+ <img width="633" height="200" alt="image" src="https://github.com/user-attachments/assets/731c35a3-0524-434c-881d-f3f6b4436009" />
+
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -69,17 +77,19 @@ Write C Program to find Sum of each row of a Matrix
 
 ## PROGRAM:
 
+<img width="614" height="531" alt="image" src="https://github.com/user-attachments/assets/f8504450-abc2-4867-86f6-85c5286aec18" />
 
 
 ## OUTPUT
 
 
- 
+ <img width="439" height="257" alt="image" src="https://github.com/user-attachments/assets/ff8fc923-0042-48ad-9f6d-e92ff4580ec4" />
+
  
 
  ## RESULT
  
-
+Thus the C Program to find Sum of each row of a Matrix executed successfully.
 
 # EX-24-STRINGS
 
@@ -97,10 +107,12 @@ Write C program for the below pyramid string pattern. Enter a string: PROGRAM En
 
 ## PROGRAM:
 
+<img width="598" height="527" alt="image" src="https://github.com/user-attachments/assets/2cca4985-43d7-41ed-af22-8b630f28a741" />
 
  ## OUTPUT
 
- 
+ <img width="439" height="366" alt="image" src="https://github.com/user-attachments/assets/c3db2acc-3fda-4a1b-99d4-e2c781bf7b73" />
+
 
 ## RESULT
 
@@ -133,9 +145,12 @@ Step 6: End the program.
 
 ## PROGRAM
 
+<img width="629" height="645" alt="image" src="https://github.com/user-attachments/assets/7e4974b9-aa85-4742-a981-e5877e486eb5" />
+
 ## OUTPUT
 
- 
+ <img width="554" height="293" alt="image" src="https://github.com/user-attachments/assets/5f371f13-a97d-4fb0-aad7-4104d19dbe76" />
+
 
 ## RESULT
 
